@@ -1,0 +1,14 @@
+SUPERSTORE DATA CLEANING REPORT
+===================================
+Initial rows: 9994
+Exact duplicate rows found: 0
+Rows with invalid dates before cleaning: 0
+Missing values after type conversion: 0
+Rows after cleaning: 9994
+Rows removed: 0
+
+IQR outlier counts (flagged, not removed):
+Sales: 1167
+Quantity: 170
+Discount: 856
+Profit: 1881
